@@ -6,6 +6,7 @@ Description: Drag and drop page builder for WordPress. Take full control over yo
 Version: 5.4.5
 Author: Michael M - WPBakery.com
 Author URI: http://wpbakery.com
+GitHub Plugin URI: https://github.com/eddiewp/js_composer
 */
 
 // don't load directly
